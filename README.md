@@ -1,7 +1,7 @@
 # Luis-Berrios
 ## 👋 Hola mi nombre es Luis Berrios
 ### Desarrollador full-stack web
-![https://github.com/Luis7769](./code.jpg)
+![https://github.com/Luis7769]
 <!--
 **Luis/Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
